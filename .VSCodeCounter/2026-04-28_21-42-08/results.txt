@@ -1,0 +1,57 @@
+Date : 2026-04-28 21:42:08
+Directory : f:\Coding\MusicOS
+Total : 18 files,  385 codes, 13 comments, 84 blanks, all 482 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Python           |         10 |        172 |         13 |         40 |        225 |
+| YAML             |          1 |        104 |          0 |         12 |        116 |
+| Markdown         |          3 |         73 |          0 |         20 |         93 |
+| pip requirements |          2 |         24 |          0 |          2 |         26 |
+| Docker           |          2 |         12 |          0 |         10 |         22 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         18 |        385 |         13 |         84 |        482 |
+| DeepTrackAI                                                                             |         18 |        385 |         13 |         84 |        482 |
+| DeepTrackAI (Files)                                                                     |          1 |         34 |          0 |          6 |         40 |
+| DeepTrackAI\backend                                                                     |         15 |        224 |         13 |         58 |        295 |
+| DeepTrackAI\backend\audio_processing_service                                            |         11 |        146 |          7 |         37 |        190 |
+| DeepTrackAI\backend\audio_processing_service (Files)                                    |          9 |        119 |          1 |         33 |        153 |
+| DeepTrackAI\backend\audio_processing_service\utils                                      |          2 |         27 |          6 |          4 |         37 |
+| DeepTrackAI\backend\ml_inference_service                                                |          4 |         78 |          6 |         21 |        105 |
+| DeepTrackAI\backend\ml_inference_service (Files)                                        |          3 |         62 |          0 |         15 |         77 |
+| DeepTrackAI\backend\ml_inference_service\utils                                          |          1 |         16 |          6 |          6 |         28 |
+| DeepTrackAI\deployment                                                                  |          1 |        104 |          0 |         12 |        116 |
+| DeepTrackAI\docs                                                                        |          1 |         23 |          0 |          8 |         31 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| f:\Coding\MusicOS\DeepTrackAI\README.md                                                 | Markdown         |         34 |          0 |          6 |         40 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\Dockerfile               | Docker           |          6 |          0 |          5 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\README.md                | Markdown         |         16 |          0 |          6 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__init__.py              | Python           |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__main__.py              | Python           |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\celery_worker.py         | Python           |         18 |          0 |          4 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\main.py                  | Python           |         45 |          0 |          9 |         54 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\requirements.txt         | pip requirements |         13 |          0 |          1 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\tasks.py                 | Python           |          1 |          1 |          1 |          3 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\test_audio_processing.py | Python           |         16 |          0 |          4 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\__init__.py        | Python           |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\audio.py           | Python           |         27 |          6 |          3 |         36 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\Dockerfile                   | Docker           |          6 |          0 |          5 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\main.py                      | Python           |         45 |          0 |          9 |         54 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\requirements.txt             | pip requirements |         11 |          0 |          1 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\utils\ml.py                  | Python           |         16 |          6 |          6 |         28 |
+| f:\Coding\MusicOS\DeepTrackAI\deployment\docker-compose.dev.yml                         | YAML             |        104 |          0 |         12 |        116 |
+| f:\Coding\MusicOS\DeepTrackAI\docs\SETUP.md                                             | Markdown         |         23 |          0 |          8 |         31 |
+| Total                                                                                   |                  |        385 |         13 |         84 |        482 |
++-----------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

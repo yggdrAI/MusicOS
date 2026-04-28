@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+torch
+torchaudio
+librosa
+numpy
+scikit-learn
+celery
+redis
+python-multipart

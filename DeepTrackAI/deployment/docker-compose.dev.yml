@@ -1,0 +1,115 @@
+version: '3.8'
+
+services:
+  api_gateway:
+    build: ../backend/api_gateway
+    ports:
+      - "8000:8000"
+    env_file:
+      - ../configs/.env
+    depends_on:
+      - audio_processing_service
+      - ml_inference_service
+      - nlp_analysis_service
+      - metadata_storage_service
+    networks:
+      - backend
+
+  audio_processing_service:
+    build: ../backend/audio_processing_service
+    env_file:
+      - ../configs/.env
+    networks:
+      - backend
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  ml_inference_service:
+    build: ../backend/ml_inference_service
+    env_file:
+      - ../configs/.env
+    networks:
+      - backend
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  nlp_analysis_service:
+    build: ../backend/nlp_analysis_service
+    env_file:
+      - ../configs/.env
+    networks:
+      - backend
+
+  metadata_storage_service:
+    build: ../backend/metadata_storage_service
+    env_file:
+      - ../configs/.env
+    networks:
+      - backend
+    depends_on:
+      - postgres
+      - redis
+      - minio
+
+  postgres:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: deeptrack
+    ports:
+      - "5432:5432"
+    networks:
+      - backend
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7
+    restart: always
+    ports:
+      - "6379:6379"
+    networks:
+      - backend
+
+  minio:
+    image: minio/minio:latest
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: youraccesskey
+      MINIO_ROOT_PASSWORD: yoursecretkey
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    networks:
+      - backend
+    volumes:
+      - miniodata:/data
+
+  frontend:
+    build: ../frontend
+    ports:
+      - "3000:3000"
+    env_file:
+      - ../configs/.env
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  pgdata:
+  miniodata:

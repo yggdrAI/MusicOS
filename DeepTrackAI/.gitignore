@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.*
+
+# Audio
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Docker
+*.log
+docker-compose.override.yml
