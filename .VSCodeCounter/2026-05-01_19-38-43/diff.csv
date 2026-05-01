@@ -1,0 +1,12 @@
+"filename", "language", "JSON", "Shell Script", "Docker", "TypeScript", "Markdown", "comment", "blank", "total"
+"f:\Coding\MusicOS\DeepTrackAI\deployment\README.md", "Markdown", 0, 0, 0, 0, 27, 0, 10, 37
+"f:\Coding\MusicOS\DeepTrackAI\deployment\package-lock.json", "JSON", 6, 0, 0, 0, 0, 0, 1, 7
+"f:\Coding\MusicOS\DeepTrackAI\frontend\Dockerfile", "Docker", 0, 0, 10, 0, 0, 4, 8, 22
+"f:\Coding\MusicOS\DeepTrackAI\frontend\next-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 1, 1, 2
+"f:\Coding\MusicOS\DeepTrackAI\frontend\package-lock.json", "JSON", 6400, 0, 0, 0, 0, 0, 1, 6401
+"f:\Coding\MusicOS\DeepTrackAI\frontend\package.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 1
+"f:\Coding\MusicOS\DeepTrackAI\scripts\setup.sh", "Shell Script", 0, 12, 0, 0, 0, 2, 5, 19
+"f:\Coding\MusicOS\DeepTrackAI\scripts\test_all.sh", "Shell Script", 0, 9, 0, 0, 0, 1, 4, 14
+"f:\Coding\MusicOS\package-lock.json", "JSON", 247, 0, 0, 0, 0, 0, 1, 248
+"f:\Coding\MusicOS\package.json", "JSON", 5, 0, 0, 0, 0, 0, 1, 6
+"Total", "-", 6659, 21, 10, 0, 27, 8, 32, 6757
