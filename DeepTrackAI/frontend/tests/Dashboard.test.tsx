@@ -1,13 +1,19 @@
-import { render, screen } from '@testing-library/react';
-import Dashboard from '../components/Dashboard';
+import React from 'react';
+import { renderToStaticMarkup } from 'react-dom/server';
+import Home from '../pages';
+import { AppProvider } from '../context/AppContext';
 
-describe('Dashboard', () => {
-  it('renders dashboard sections', () => {
-    render(<Dashboard />);
-    expect(screen.getByText(/Waveform Visualizer/i)).toBeInTheDocument();
-    expect(screen.getByText(/Stem Player/i)).toBeInTheDocument();
-    expect(screen.getByText(/Lyrics Viewer/i)).toBeInTheDocument();
-    expect(screen.getByText(/Beat & BPM/i)).toBeInTheDocument();
-    expect(screen.getByText(/Insights/i)).toBeInTheDocument();
+describe('Dashboard shell', () => {
+  it('renders the production upload workspace and pipeline rail', () => {
+    const html = renderToStaticMarkup(
+      <AppProvider>
+        <Home />
+      </AppProvider>
+    );
+
+    expect(html.includes('DeepTrack AI')).toBeTruthy();
+    expect(html.includes('Drop your track here')).toBeTruthy();
+    expect(html.includes('System pipeline')).toBeTruthy();
+    expect(html.includes('Live pipeline')).toBeTruthy();
   });
 });

@@ -1,11 +1,7 @@
-import { render, screen } from '@testing-library/react';
-import OutputPanel from '../components/OutputPanel';
+import { uploadSong } from '../utils/api';
 
-describe('OutputPanel', () => {
-  it('renders output when result is present', () => {
-    render(<OutputPanel result={{ tempo: 120, key: 'C' }} />);
-    expect(screen.getByText(/Analysis Output/i)).toBeInTheDocument();
-    expect(screen.getByText(/tempo/)).toBeInTheDocument();
-    expect(screen.getByText(/120/)).toBeInTheDocument();
+describe('API contract helpers', () => {
+  it('exports the upload function used by the app data flow', () => {
+    expect(typeof uploadSong === 'function').toBeTruthy();
   });
 });

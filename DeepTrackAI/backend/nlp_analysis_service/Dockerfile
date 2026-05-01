@@ -1,18 +1,13 @@
-FROM pytorch/pytorch:latest
+FROM python:3.10-slim
 
 WORKDIR /app
 
-# Copy requirements and install everything except torch (torch comes with the base image)
-COPY requirements.txt ./
-RUN sed '/^torch/Id' requirements.txt > /tmp/reqs.txt || cp requirements.txt /tmp/reqs.txt && \
-    pip install --upgrade pip && \
-    pip install -r /tmp/reqs.txt \
-    --retries 5 \
-    --default-timeout 1000 \
-    --index-url https://pypi.org/simple/ \
-    --extra-index-url https://mirrors.aliyun.com/pypi/simple/ || \
-    pip install -r /tmp/reqs.txt
+# Lightweight requirements for stub service
+COPY stub_requirements.txt ./
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r stub_requirements.txt
 
-COPY . .
+# Copy stub app
+COPY stub_app.py ./
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8003"]
+CMD ["uvicorn", "stub_app:app", "--host", "0.0.0.0", "--port", "8003"]

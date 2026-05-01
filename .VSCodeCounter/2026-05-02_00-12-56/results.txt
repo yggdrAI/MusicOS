@@ -1,0 +1,166 @@
+Date : 2026-05-02 00:12:56
+Directory : f:\Coding\MusicOS
+Total : 100 files,  10409 codes, 96 comments, 680 blanks, all 11185 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      6,689 |          0 |          5 |      6,694 |
+| Python             |         37 |      1,119 |         66 |        243 |      1,428 |
+| TypeScript JSX     |         21 |        926 |          7 |        109 |      1,042 |
+| PostCSS            |          1 |        835 |          0 |        132 |        967 |
+| Markdown           |         10 |        340 |          0 |         96 |        436 |
+| TypeScript         |          7 |        232 |          9 |         29 |        270 |
+| YAML               |          1 |        104 |          0 |         12 |        116 |
+| pip requirements   |          5 |         52 |          0 |          5 |         57 |
+| Docker             |          6 |         43 |         10 |         33 |         86 |
+| JavaScript         |          3 |         27 |          1 |          6 |         34 |
+| Shell Script       |          2 |         21 |          3 |          9 |         33 |
+| JSON with Comments |          1 |         21 |          0 |          1 |         22 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |        100 |     10,409 |         96 |        680 |     11,185 |
+| . (Files)                                                                               |          4 |        687 |         35 |        100 |        822 |
+| DeepTrackAI                                                                             |         96 |      9,722 |         61 |        580 |     10,363 |
+| DeepTrackAI (Files)                                                                     |          1 |         34 |          0 |          6 |         40 |
+| DeepTrackAI\backend                                                                     |         51 |      1,004 |         37 |        241 |      1,282 |
+| DeepTrackAI\backend\api_gateway                                                         |          5 |        402 |          9 |         63 |        474 |
+| DeepTrackAI\backend\audio_processing_service                                            |         12 |        158 |         10 |         45 |        213 |
+| DeepTrackAI\backend\audio_processing_service (Files)                                    |         10 |        131 |          4 |         41 |        176 |
+| DeepTrackAI\backend\audio_processing_service\utils                                      |          2 |         27 |          6 |          4 |         37 |
+| DeepTrackAI\backend\metadata_storage_service                                            |         10 |        127 |          0 |         40 |        167 |
+| DeepTrackAI\backend\metadata_storage_service (Files)                                    |          7 |         92 |          0 |         28 |        120 |
+| DeepTrackAI\backend\metadata_storage_service\utils                                      |          3 |         35 |          0 |         12 |         47 |
+| DeepTrackAI\backend\ml_inference_service                                                |         12 |        149 |         10 |         46 |        205 |
+| DeepTrackAI\backend\ml_inference_service (Files)                                        |         10 |        133 |          4 |         39 |        176 |
+| DeepTrackAI\backend\ml_inference_service\utils                                          |          2 |         16 |          6 |          7 |         29 |
+| DeepTrackAI\backend\nlp_analysis_service                                                |         12 |        168 |          8 |         47 |        223 |
+| DeepTrackAI\backend\nlp_analysis_service (Files)                                        |         10 |        129 |          3 |         39 |        171 |
+| DeepTrackAI\backend\nlp_analysis_service\utils                                          |          2 |         39 |          5 |          8 |         52 |
+| DeepTrackAI\deployment                                                                  |          3 |        137 |          0 |         23 |        160 |
+| DeepTrackAI\docs                                                                        |          1 |         23 |          0 |          8 |         31 |
+| DeepTrackAI\frontend                                                                    |         38 |      8,503 |         21 |        293 |      8,817 |
+| DeepTrackAI\frontend (Files)                                                            |         10 |      6,510 |          9 |         25 |      6,544 |
+| DeepTrackAI\frontend\components                                                         |         14 |        668 |          3 |         74 |        745 |
+| DeepTrackAI\frontend\context                                                            |          1 |        134 |          4 |         16 |        154 |
+| DeepTrackAI\frontend\hooks                                                              |          1 |         33 |          0 |          4 |         37 |
+| DeepTrackAI\frontend\pages                                                              |          5 |        134 |          2 |         16 |        152 |
+| DeepTrackAI\frontend\pages (Files)                                                      |          3 |         85 |          0 |         11 |         96 |
+| DeepTrackAI\frontend\pages\api                                                          |          2 |         49 |          2 |          5 |         56 |
+| DeepTrackAI\frontend\styles                                                             |          1 |        835 |          0 |        132 |        967 |
+| DeepTrackAI\frontend\tests                                                              |          4 |         44 |          0 |          9 |         53 |
+| DeepTrackAI\frontend\utils                                                              |          2 |        145 |          3 |         17 |        165 |
+| DeepTrackAI\scripts                                                                     |          2 |         21 |          3 |          9 |         33 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| f:\Coding\MusicOS\DeepTrackAI\README.md                                                 | Markdown           |         34 |          0 |          6 |         40 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\Dockerfile                            | Docker             |          6 |          0 |          5 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\README.md                             | Markdown           |         14 |          0 |          5 |         19 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\__main__.py                           | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\main.py                               | Python             |        372 |          9 |         50 |        431 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\requirements.txt                      | pip requirements   |          6 |          0 |          1 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\Dockerfile               | Docker             |          7 |          2 |          5 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\README.md                | Markdown           |         16 |          0 |          6 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__init__.py              | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__main__.py              | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\celery_worker.py         | Python             |         18 |          0 |          4 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\main.py                  | Python             |         45 |          0 |          9 |         54 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\requirements.txt         | pip requirements   |         13 |          0 |          1 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\stub_app.py              | Python             |         11 |          1 |          8 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\tasks.py                 | Python             |          1 |          1 |          1 |          3 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\test_audio_processing.py | Python             |         16 |          0 |          4 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\__init__.py        | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\audio.py           | Python             |         27 |          6 |          3 |         36 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\Dockerfile               | Docker             |          6 |          0 |          5 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\README.md                | Markdown           |         14 |          0 |          6 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\__init__.py              | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\__main__.py              | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\main.py                  | Python             |         48 |          0 |          9 |         57 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\requirements.txt         | pip requirements   |         10 |          0 |          1 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\test_metadata_storage.py | Python             |         10 |          0 |          4 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\__init__.py        | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\db.py              | Python             |         19 |          0 |          6 |         25 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\s3.py              | Python             |         16 |          0 |          5 |         21 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\Dockerfile                   | Docker             |          7 |          2 |          5 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\README.md                    | Markdown           |         18 |          0 |          6 |         24 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\__init__.py                  | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\__main__.py                  | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\celery_worker.py             | Python             |         23 |          0 |          4 |         27 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\main.py                      | Python             |         45 |          0 |          9 |         54 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\requirements.txt             | pip requirements   |         11 |          0 |          1 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\stub_app.py                  | Python             |          8 |          1 |          6 |         15 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\tasks.py                     | Python             |          1 |          1 |          1 |          3 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\test_ml_inference.py         | Python             |         16 |          0 |          4 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\utils\__init__.py            | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\utils\ml.py                  | Python             |         16 |          6 |          6 |         28 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\Dockerfile                   | Docker             |          7 |          2 |          5 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\README.md                    | Markdown           |         18 |          0 |          6 |         24 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\__init__.py                  | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\__main__.py                  | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\celery_worker.py             | Python             |         18 |          0 |          4 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\main.py                      | Python             |         45 |          0 |          9 |         54 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\requirements.txt             | pip requirements   |         12 |          0 |          1 |         13 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\stub_app.py                  | Python             |          8 |          0 |          6 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\tasks.py                     | Python             |          1 |          1 |          1 |          3 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\test_nlp_analysis.py         | Python             |         16 |          0 |          4 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\utils\__init__.py            | Python             |          0 |          0 |          1 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\utils\nlp.py                 | Python             |         39 |          5 |          7 |         51 |
+| f:\Coding\MusicOS\DeepTrackAI\deployment\README.md                                      | Markdown           |         27 |          0 |         10 |         37 |
+| f:\Coding\MusicOS\DeepTrackAI\deployment\docker-compose.dev.yml                         | YAML               |        104 |          0 |         12 |        116 |
+| f:\Coding\MusicOS\DeepTrackAI\deployment\package-lock.json                              | JSON               |          6 |          0 |          1 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\docs\SETUP.md                                             | Markdown           |         23 |          0 |          8 |         31 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\Dockerfile                                       | Docker             |         10 |          4 |          8 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\README.md                                        | Markdown           |         21 |          0 |          6 |         27 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\AnalysisDashboard.tsx                 | TypeScript JSX     |        118 |          0 |         11 |        129 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\BeatBPMDisplay.tsx                    | TypeScript JSX     |          9 |          1 |          2 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\Dashboard.tsx                         | TypeScript JSX     |         21 |          1 |          2 |         24 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\InsightsPanel.tsx                     | TypeScript JSX     |         69 |          0 |          9 |         78 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\IntegrationRoot.tsx                   | TypeScript JSX     |         18 |          1 |          3 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\LyricsViewer.tsx                      | TypeScript JSX     |         42 |          0 |          3 |         45 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\OutputPanel.tsx                       | TypeScript JSX     |         11 |          0 |          2 |         13 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\Sidebar.tsx                           | TypeScript JSX     |         43 |          0 |          7 |         50 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\SpectralView.tsx                      | TypeScript JSX     |         58 |          0 |          7 |         65 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\StatsGrid.tsx                         | TypeScript JSX     |         26 |          0 |          4 |         30 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\StemPlayer.tsx                        | TypeScript JSX     |         28 |          0 |          3 |         31 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\UploadSection.tsx                     | TypeScript JSX     |         46 |          0 |          4 |         50 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\UploadZone.tsx                        | TypeScript JSX     |        126 |          0 |         11 |        137 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\WaveformVisualizer.tsx                | TypeScript JSX     |         53 |          0 |          6 |         59 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\context\AppContext.tsx                           | TypeScript JSX     |        134 |          4 |         16 |        154 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\hooks\useUploadStatus.ts                         | TypeScript         |         33 |          0 |          4 |         37 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\jest.config.js                                   | JavaScript         |          6 |          0 |          4 |         10 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\next-env.d.ts                                    | TypeScript         |          0 |          4 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\package-lock.json                                | JSON               |      6,400 |          0 |          1 |      6,401 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\package.json                                     | JSON               |         30 |          0 |          1 |         31 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_app.tsx                                   | TypeScript JSX     |         10 |          0 |          2 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_document.tsx                              | TypeScript JSX     |         12 |          0 |          2 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\api\status.ts                              | TypeScript         |         26 |          1 |          2 |         29 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\api\upload.ts                              | TypeScript         |         23 |          1 |          3 |         27 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\index.tsx                                  | TypeScript JSX     |         63 |          0 |          7 |         70 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\postcss.config.js                                | JavaScript         |          6 |          0 |          1 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\styles\globals.css                               | PostCSS            |        835 |          0 |        132 |        967 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tailwind.config.js                               | JavaScript         |         15 |          1 |          1 |         17 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tests\Dashboard.test.tsx                         | TypeScript JSX     |         17 |          0 |          3 |         20 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tests\OutputPanel.test.tsx                       | TypeScript JSX     |          6 |          0 |          2 |          8 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tests\UploadSection.test.tsx                     | TypeScript JSX     |         16 |          0 |          3 |         19 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tests\globals.d.ts                               | TypeScript         |          5 |          0 |          1 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tsconfig.json                                    | JSON with Comments |         21 |          0 |          1 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tsconfig.tsbuildinfo                             | JSON               |          1 |          0 |          0 |          1 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\utils\api.ts                                     | TypeScript         |        141 |          2 |         16 |        159 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\utils\formatOutput.ts                            | TypeScript         |          4 |          1 |          1 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\scripts\setup.sh                                          | Shell Script       |         12 |          2 |          5 |         19 |
+| f:\Coding\MusicOS\DeepTrackAI\scripts\test_all.sh                                       | Shell Script       |          9 |          1 |          4 |         14 |
+| f:\Coding\MusicOS\PROJECT_TESTING_REPORT.md                                             | Markdown           |        155 |          0 |         37 |        192 |
+| f:\Coding\MusicOS\package-lock.json                                                     | JSON               |        247 |          0 |          1 |        248 |
+| f:\Coding\MusicOS\package.json                                                          | JSON               |          5 |          0 |          1 |          6 |
+| f:\Coding\MusicOS\test_all_functionality.py                                             | Python             |        280 |         35 |         61 |        376 |
+| Total                                                                                   |                    |     10,409 |         96 |        680 |     11,185 |
++-----------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

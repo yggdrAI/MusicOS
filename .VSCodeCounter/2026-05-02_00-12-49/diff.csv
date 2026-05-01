@@ -1,0 +1,32 @@
+"filename", "language", "Python", "Markdown", "TypeScript", "JSON", "TypeScript JSX", "JavaScript", "PostCSS", "Docker", "comment", "blank", "total"
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\main.py", "Python", 305, 0, 0, 0, 0, 0, 0, 0, 9, 40, 354
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\stub_app.py", "Python", 11, 0, 0, 0, 0, 0, 0, 0, 1, 8, 20
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\stub_app.py", "Python", 8, 0, 0, 0, 0, 0, 0, 0, 1, 6, 15
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\stub_app.py", "Python", 8, 0, 0, 0, 0, 0, 0, 0, 0, 6, 14
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\AnalysisDashboard.tsx", "TypeScript JSX", 0, 0, 0, 0, 118, 0, 0, 0, 0, 11, 129
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\InsightsPanel.tsx", "TypeScript JSX", 0, 0, 0, 0, 55, 0, 0, 0, -1, 7, 61
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\LyricsViewer.tsx", "TypeScript JSX", 0, 0, 0, 0, 33, 0, 0, 0, -1, 1, 33
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\Sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 43, 0, 0, 0, 0, 7, 50
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\SpectralView.tsx", "TypeScript JSX", 0, 0, 0, 0, 58, 0, 0, 0, 0, 7, 65
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\StatsGrid.tsx", "TypeScript JSX", 0, 0, 0, 0, 26, 0, 0, 0, 0, 4, 30
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\StemPlayer.tsx", "TypeScript JSX", 0, 0, 0, 0, 14, 0, 0, 0, -1, 1, 14
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\UploadZone.tsx", "TypeScript JSX", 0, 0, 0, 0, 126, 0, 0, 0, 0, 11, 137
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\WaveformVisualizer.tsx", "TypeScript JSX", 0, 0, 0, 0, 42, 0, 0, 0, -1, 4, 45
+"f:\Coding\MusicOS\DeepTrackAI\frontend\context\AppContext.tsx", "TypeScript JSX", 0, 0, 0, 0, 134, 0, 0, 0, 4, 16, 154
+"f:\Coding\MusicOS\DeepTrackAI\frontend\jest.config.js", "JavaScript", 0, 0, 0, 0, 0, 6, 0, 0, 0, 4, 10
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_app.tsx", "TypeScript JSX", 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 43, 0, 0, 0, 0, 5, 48
+"f:\Coding\MusicOS\DeepTrackAI\frontend\styles\globals.css", "PostCSS", 0, 0, 0, 0, 0, 0, 828, 0, 0, 130, 958
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tailwind.config.js", "JavaScript", 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\Dashboard.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 5, 0, 0, 0, 0, 1, 6
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\OutputPanel.test.tsx", "TypeScript JSX", 0, 0, 0, 0, -4, 0, 0, 0, 0, 0, -4
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\UploadSection.test.tsx", "TypeScript JSX", 0, 0, 0, 0, 8, 0, 0, 0, 0, 1, 9
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\globals.d.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 6
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tsconfig.tsbuildinfo", "JSON", 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"f:\Coding\MusicOS\DeepTrackAI\frontend\utils\api.ts", "TypeScript", 0, 0, 141, 0, 0, 0, 0, 0, 2, 16, 159
+"f:\Coding\MusicOS\PROJECT_TESTING_REPORT.md", "Markdown", 0, 155, 0, 0, 0, 0, 0, 0, 0, 37, 192
+"f:\Coding\MusicOS\test_all_functionality.py", "Python", 280, 0, 0, 0, 0, 0, 0, 0, 35, 61, 376
+"Total", "-", 612, 155, 146, 1, 706, 11, 828, 3, 54, 385, 2901
