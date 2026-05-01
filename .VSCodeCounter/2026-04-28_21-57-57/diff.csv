@@ -1,0 +1,11 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "comment", "blank", "total"
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\IntegrationRoot.tsx", "TypeScript JSX", 0, 18, 1, 3, 22
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\OutputPanel.tsx", "TypeScript JSX", 0, 11, 0, 2, 13
+"f:\Coding\MusicOS\DeepTrackAI\frontend\hooks\useUploadStatus.ts", "TypeScript", 33, 0, 0, 4, 37
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_document.tsx", "TypeScript JSX", 0, 12, 0, 2, 14
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\api\status.ts", "TypeScript", 26, 0, 1, 2, 29
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\Dashboard.test.tsx", "TypeScript JSX", 0, 12, 0, 2, 14
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\OutputPanel.test.tsx", "TypeScript JSX", 0, 10, 0, 2, 12
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tests\UploadSection.test.tsx", "TypeScript JSX", 0, 8, 0, 2, 10
+"f:\Coding\MusicOS\DeepTrackAI\frontend\utils\formatOutput.ts", "TypeScript", 4, 0, 1, 1, 6
+"Total", "-", 63, 71, 3, 20, 157

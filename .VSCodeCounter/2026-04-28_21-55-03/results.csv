@@ -1,0 +1,70 @@
+"filename", "language", "JSON with Comments", "Markdown", "PostCSS", "JavaScript", "TypeScript JSX", "TypeScript", "JSON", "Python", "pip requirements", "YAML", "Docker", "comment", "blank", "total"
+"f:\Coding\MusicOS\DeepTrackAI\README.md", "Markdown", 0, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 40
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\README.md", "Markdown", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 19
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\__main__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 67, 0, 0, 0, 0, 10, 77
+"f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 7
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\README.md", "Markdown", 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 22
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\__main__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\celery_worker.py", "Python", 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 4, 22
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 45, 0, 0, 0, 0, 9, 54
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 1, 14
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\tasks.py", "Python", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\test_audio_processing.py", "Python", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 4, 20
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\audio_processing_service\utils\audio.py", "Python", 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 0, 6, 3, 36
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\README.md", "Markdown", 0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 20
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\__main__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 48, 0, 0, 0, 0, 9, 57
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 1, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\test_metadata_storage.py", "Python", 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 4, 14
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\db.py", "Python", 0, 0, 0, 0, 0, 0, 0, 19, 0, 0, 0, 0, 6, 25
+"f:\Coding\MusicOS\DeepTrackAI\backend\metadata_storage_service\utils\s3.py", "Python", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 5, 21
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\README.md", "Markdown", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 24
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\__main__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\celery_worker.py", "Python", 0, 0, 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 4, 27
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 45, 0, 0, 0, 0, 9, 54
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 1, 12
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\tasks.py", "Python", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\test_ml_inference.py", "Python", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 4, 20
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\utils\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\ml_inference_service\utils\ml.py", "Python", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 6, 6, 28
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\Dockerfile", "Docker", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5, 11
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\README.md", "Markdown", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 24
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\__main__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 2, 6
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\celery_worker.py", "Python", 0, 0, 0, 0, 0, 0, 0, 18, 0, 0, 0, 0, 4, 22
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\main.py", "Python", 0, 0, 0, 0, 0, 0, 0, 45, 0, 0, 0, 0, 9, 54
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\requirements.txt", "pip requirements", 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 1, 13
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\tasks.py", "Python", 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 3
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\test_nlp_analysis.py", "Python", 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 4, 20
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\utils\__init__.py", "Python", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"f:\Coding\MusicOS\DeepTrackAI\backend\nlp_analysis_service\utils\nlp.py", "Python", 0, 0, 0, 0, 0, 0, 0, 39, 0, 0, 0, 5, 7, 51
+"f:\Coding\MusicOS\DeepTrackAI\deployment\docker-compose.dev.yml", "YAML", 0, 0, 0, 0, 0, 0, 0, 0, 0, 104, 0, 0, 12, 116
+"f:\Coding\MusicOS\DeepTrackAI\docs\SETUP.md", "Markdown", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 31
+"f:\Coding\MusicOS\DeepTrackAI\frontend\README.md", "Markdown", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 27
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\BeatBPMDisplay.tsx", "TypeScript JSX", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 1, 2, 12
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\Dashboard.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 1, 2, 24
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\InsightsPanel.tsx", "TypeScript JSX", 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 1, 2, 17
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\LyricsViewer.tsx", "TypeScript JSX", 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 1, 2, 12
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\StemPlayer.tsx", "TypeScript JSX", 0, 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 1, 2, 17
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\UploadSection.tsx", "TypeScript JSX", 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 4, 50
+"f:\Coding\MusicOS\DeepTrackAI\frontend\components\WaveformVisualizer.tsx", "TypeScript JSX", 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 1, 2, 14
+"f:\Coding\MusicOS\DeepTrackAI\frontend\next-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 4
+"f:\Coding\MusicOS\DeepTrackAI\frontend\package.json", "JSON", 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 1, 30
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_app.tsx", "TypeScript JSX", 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\api\upload.ts", "TypeScript", 0, 0, 0, 0, 0, 23, 0, 0, 0, 0, 0, 1, 3, 27
+"f:\Coding\MusicOS\DeepTrackAI\frontend\pages\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 2, 22
+"f:\Coding\MusicOS\DeepTrackAI\frontend\postcss.config.js", "JavaScript", 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"f:\Coding\MusicOS\DeepTrackAI\frontend\styles\globals.css", "PostCSS", 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tailwind.config.js", "JavaScript", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 1, 1, 12
+"f:\Coding\MusicOS\DeepTrackAI\frontend\tsconfig.json", "JSON with Comments", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 22
+"Total", "-", 21, 158, 7, 16, 149, 23, 29, 507, 52, 104, 30, 31, 243, 1370

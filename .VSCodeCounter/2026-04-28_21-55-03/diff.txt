@@ -1,0 +1,65 @@
+Date : 2026-04-28 21:55:03
+Directory : f:\Coding\MusicOS
+Total : 22 files,  363 codes, 11 comments, 59 blanks, all 433 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| TypeScript JSX     |          9 |        149 |          6 |         20 |        175 |
+| Python             |          2 |         71 |          0 |         12 |         83 |
+| Markdown           |          2 |         35 |          0 |         11 |         46 |
+| JSON               |          1 |         29 |          0 |          1 |         30 |
+| TypeScript         |          2 |         23 |          4 |          4 |         31 |
+| JSON with Comments |          1 |         21 |          0 |          1 |         22 |
+| JavaScript         |          2 |         16 |          1 |          2 |         19 |
+| PostCSS            |          1 |          7 |          0 |          2 |          9 |
+| pip requirements   |          1 |          6 |          0 |          1 |          7 |
+| Docker             |          1 |          6 |          0 |          5 |         11 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                        |         22 |        363 |         11 |         59 |        433 |
+| DeepTrackAI                                                              |         22 |        363 |         11 |         59 |        433 |
+| DeepTrackAI\backend                                                      |          5 |         97 |          0 |         23 |        120 |
+| DeepTrackAI\backend\api_gateway                                          |          5 |         97 |          0 |         23 |        120 |
+| DeepTrackAI\frontend                                                     |         17 |        266 |         11 |         36 |        313 |
+| DeepTrackAI\frontend (Files)                                             |          6 |         87 |          4 |         11 |        102 |
+| DeepTrackAI\frontend\components                                          |          7 |        124 |          6 |         16 |        146 |
+| DeepTrackAI\frontend\pages                                               |          3 |         48 |          1 |          7 |         56 |
+| DeepTrackAI\frontend\pages (Files)                                       |          2 |         25 |          0 |          4 |         29 |
+| DeepTrackAI\frontend\pages\api                                           |          1 |         23 |          1 |          3 |         27 |
+| DeepTrackAI\frontend\styles                                              |          1 |          7 |          0 |          2 |          9 |
++--------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                 | language           | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\Dockerfile             | Docker             |          6 |          0 |          5 |         11 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\README.md              | Markdown           |         14 |          0 |          5 |         19 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\__main__.py            | Python             |          4 |          0 |          2 |          6 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\main.py                | Python             |         67 |          0 |         10 |         77 |
+| f:\Coding\MusicOS\DeepTrackAI\backend\api_gateway\requirements.txt       | pip requirements   |          6 |          0 |          1 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\README.md                         | Markdown           |         21 |          0 |          6 |         27 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\BeatBPMDisplay.tsx     | TypeScript JSX     |          9 |          1 |          2 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\Dashboard.tsx          | TypeScript JSX     |         21 |          1 |          2 |         24 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\InsightsPanel.tsx      | TypeScript JSX     |         14 |          1 |          2 |         17 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\LyricsViewer.tsx       | TypeScript JSX     |          9 |          1 |          2 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\StemPlayer.tsx         | TypeScript JSX     |         14 |          1 |          2 |         17 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\UploadSection.tsx      | TypeScript JSX     |         46 |          0 |          4 |         50 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\components\WaveformVisualizer.tsx | TypeScript JSX     |         11 |          1 |          2 |         14 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\next-env.d.ts                     | TypeScript         |          0 |          3 |          1 |          4 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\package.json                      | JSON               |         29 |          0 |          1 |         30 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\_app.tsx                    | TypeScript JSX     |          5 |          0 |          2 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\api\upload.ts               | TypeScript         |         23 |          1 |          3 |         27 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\pages\index.tsx                   | TypeScript JSX     |         20 |          0 |          2 |         22 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\postcss.config.js                 | JavaScript         |          6 |          0 |          1 |          7 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\styles\globals.css                | PostCSS            |          7 |          0 |          2 |          9 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tailwind.config.js                | JavaScript         |         10 |          1 |          1 |         12 |
+| f:\Coding\MusicOS\DeepTrackAI\frontend\tsconfig.json                     | JSON with Comments |         21 |          0 |          1 |         22 |
+| Total                                                                    |                    |        363 |         11 |         59 |        433 |
++--------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
